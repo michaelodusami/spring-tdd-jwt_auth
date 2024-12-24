@@ -1,26 +1,20 @@
+# JWT Authentication Template in Spring Boot
 
-# **Multi-Module E-Commerce Platform Backend**
+This is a boilerplate template for implementing JWT (JSON Web Token) authentication in a Spring Boot application. It provides a secure and efficient way to authenticate and authorize users, ensuring only authenticated users can access protected resources.
 
----
+## Features
 
-### **Overview**
-A backend for an e-commerce platform consisting of multiple modules. This project will challenge you to integrate advanced Java concepts, frameworks, and tools that senior engineers commonly use.
+- User authentication using JSON Web Tokens (JWT).
+- Role-based access control.
+- Secure endpoints for login, registration, and protected resources.
+- Refresh token support.
+- Easily configurable and extendable.
 
----
+## Prerequisites
 
-### **Tech Stack**
-1. **Core Language**: Java 17+  
-2. **Framework**: Spring Boot  
-3. **Database**: PostgreSQL or MySQL (RDBMS)  
-4. **Persistence**: Hibernate/JPA  
-5. **API**: RESTful APIs with Spring MVC  
-6. **Build Tool**: Maven or Gradle  
-7. **Testing**: JUnit 5, Mockito, Testcontainers  
-8. **Message Broker**: Apache Kafka or RabbitMQ (optional for scalability)  
-9. **Caching**: Redis (for performance optimization)  
-10. **Documentation**: Swagger or OpenAPI  
-11. **Version Control**: Git  
-12. **CI/CD**: Jenkins or GitHub Actions  
-13. **Logging**: SLF4J with Logback  
-14. **Containerization**: Docker  
+Before using this template, ensure you have the following installed:
+
+- **Java 17 or later**
+- **Maven 3.6+**
+- **PostgreSQL/MySQL/Other database** (optional for user storage, can use H2 for quick setup)
 
