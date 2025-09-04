@@ -132,6 +132,3 @@ Contributions are welcome! Please:
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
----
-
-This README reflects the current state of the Fakeazon project, focusing on Phase 1 (authentication) while outlining plans for future phases. It highlights your technical skills and provides clear setup instructions for potential users or recruiters. Let me know if you want to add more context or refine any section!
